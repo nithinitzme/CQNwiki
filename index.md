@@ -3,7 +3,7 @@
 
 This wiki is at an embryonic state. Partially it exists as an exercise in using git.
 
-So try this:
+So try this: 
 
 - go to [`https://krastanov.github.io/CQNwiki`](https://krastanov.github.io/CQNwiki)
 - make a fork to your personal github account
